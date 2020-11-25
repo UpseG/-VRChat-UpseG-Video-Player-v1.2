@@ -2,6 +2,7 @@
 Normal video player for game VRChat
 
 Update:
+
 v1.2
 Added respawn button for tablet
 
